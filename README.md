@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meralkarakoyun, I'm a proolooonged architecture student @ Middle East Technical University
 - 👋 From Istanbul, TURKEY
 - 👀 I’m interested in architecture, interior design, game development, creating characters, coding, applications, virtual reality, augmented reality and mixed reality
-- 🌱 I’m currently learning "Unity" well, it is just starting :)
-- 💞️ I’m looking to collaborate with professionals and/or fresh learners "like me :)" I want to expand my horizon on gaming, design, virtual reality world etc.
-- 📫 U can reach me via meral.karakoyun@metu.edu.tr and do NOT hesitate to contact! :)
+- 🌱 I started to learn "Unity" well it is just starting :)
+- 💞️ I’m looking to collaborate with professionals and/or fresh learners "like me :)" I want to expand my horizon on gaming, design, some realities
+- 📫 U can reach me via meral.karakoyun@metu.edu.tr and do NOT hesitate to contact!
